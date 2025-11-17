@@ -33,3 +33,8 @@ jobs:
         run: |
           echo "달봉아~~"
           echo "사랑해! 지금도 많이 보고싶어!"
+
+      - name: Github Actions 자체에 저장되어 있는 변수 사용
+        run: |
+          echo $GITHUB_SHA
+          echo $GITHUB_REPOSITORY
