@@ -28,3 +28,8 @@ jobs:
         run: |
           echo "Good"
           echo "Dalbong"
+
+      - name: 다음 문장 작성하기스
+        run: |
+          echo "달봉아~~"
+          echo "사랑해! 지금도 많이 보고싶어!"
