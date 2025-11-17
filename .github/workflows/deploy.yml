@@ -27,4 +27,4 @@ jobs:
       - name: 여러 명령어 문장 작성하기스
         run: |
           echo "Good"
-          ehco "Dalbong"
+          echo "Dalbong"
